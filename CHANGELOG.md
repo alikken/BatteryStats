@@ -1,20 +1,20 @@
-# История версий
+# Changelog
 
-## 1.2.1 — 2026-11-06
-- Автор «by alikken» в окне, меню, отчёте, свойствах exe и установщике.
+## 1.2.1 · 2026-11-06
+- "by alikken" credit in the app window, tray menu, report, file properties and installer.
 
-## 1.2.0 — 2026-11-06
-- Интерфейс на трёх языках: русский, английский, польский. Язык берётся из Windows, переключается в меню.
-- Месячная статистика: пока ноутбук работает от батареи, приложение записывает расход в Вт·ч и разбивку по программам.
-- HTML-отчёт за месяц: итоги, график по дням, топ программ, переключение между месяцами.
-- Установщик: польский язык, вопрос об удалении статистики при деинсталляции.
+## 1.2.0 · 2026-11-06
+- English, Russian and Polish UI. BatteryStats follows your Windows language; you switch it from the tray menu.
+- Monthly statistics: on battery, the app logs energy in Wh and splits it across apps.
+- Monthly HTML report with totals, a per-day chart, top apps and a month switcher.
+- Installer in Polish. On uninstall it asks whether to keep your usage statistics.
 
-## 1.1.0 — 2026-11-06
-- Раздел «Процессы»: загрузка ЦП и видеокарты по программам и оценка их расхода в ваттах.
-- Установщик без прав администратора, удаление через «Параметры → Приложения».
-- Номер версии в интерфейсе и свойствах файла.
+## 1.1.0 · 2026-11-06
+- Processes section: CPU and GPU load per app with estimated power draw.
+- Installer without admin rights. You uninstall from Settings → Apps.
+- Version number in the window and file properties.
 
-## 1.0.0 — 2026-11-06
-- Мощность батареи в ваттах прямо в значке трея.
-- Окно с графиком за 5 минут, напряжением, током, запасом энергии, здоровьем и циклами.
-- Светлая и тёмная тема, поддержка любого масштаба экрана.
+## 1.0.0 · 2026-11-06
+- Battery power in watts inside the tray icon.
+- Window with a 5-minute chart, voltage, current, energy left, health and cycle count.
+- Light and dark themes, sharp at any display scale.
